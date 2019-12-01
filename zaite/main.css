@@ -1,0 +1,23 @@
+img{
+  width: 415px;
+  height:415px;
+  display: flex;
+
+  
+
+}
+.cont{
+
+display: flex;
+justify-content: space-between;
+
+
+
+}
+p{
+
+font-size:40px;
+font-family:cursive;
+color:red;
+
+}
